@@ -57,6 +57,8 @@ cd Medical-diagnosis
 2️⃣ Install Dependencies
 
 pip install -r requirements.txt
+pip install numpy pandas scikit-learn tensorflow streamlit joblib
+
 
 3️⃣ Train the Model (Optional)
 
