@@ -1,8 +1,8 @@
 🩺 Medical Diagnose – AI-Based Diabetes Prediction System
+
 📌 Project Overview
-
-Medical Diagnose is an AI-powered machine learning application that predicts whether a person is diabetic or not based on medical parameters such as glucose level, BMI, age, blood pressure, etc.
-
+Medical Diagnose is an AI-powered machine learning application that predicts whether 
+a person is diabetic or not based on medical parameters such as glucose level, BMI, age, blood pressure, etc.
 The project uses a Neural Network model and a Streamlit web interface to provide real-time predictions in a user-friendly way.
 
 🚀 Features
@@ -51,10 +51,13 @@ Medical-diagnosis/
 1️⃣ Clone the Repository
 git clone https://github.com/soniimaurya/Medical-diagnosis.git
 cd Medical-diagnosis
+
 2️⃣ Install Dependencies
 pip install -r requirements.txt
+
 3️⃣ Train the Model (Optional)
 python train_model.py
+
 4️⃣ Run the Application
 streamlit run app.py
 
