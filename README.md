@@ -48,6 +48,7 @@ Medical-diagnosis/
 │── README.md            # Project documentation
 
 🛠️ Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/soniimaurya/Medical-diagnosis.git
 cd Medical-diagnosis
@@ -62,8 +63,8 @@ python train_model.py
 streamlit run app.py
 
 
-📈 Model Performance
 
+📈 Model Performance
 Neural Network-based binary classification
 Accuracy evaluated using:
 Accuracy Score
