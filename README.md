@@ -50,16 +50,20 @@ Medical-diagnosis/
 🛠️ Installation & Setup
 
 1️⃣ Clone the Repository
+
 git clone https://github.com/soniimaurya/Medical-diagnosis.git
 cd Medical-diagnosis
 
 2️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 3️⃣ Train the Model (Optional)
+
 python train_model.py
 
 4️⃣ Run the Application
+
 streamlit run app.py
 
 
